@@ -1,4 +1,4 @@
-# javaDemo 
+# javaDemo  
 
 项目为java demos，javase的基础demo
 - 第一章：Java语言概述
